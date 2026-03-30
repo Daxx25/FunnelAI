@@ -1,0 +1,61 @@
+lead_id,company,stage,revenue,owner,created_date,close_date
+L001,Acme Corp,Closed Won,45000,Sarah,2025-09-01,2025-10-15
+L002,BrightPath Inc,Closed Won,32000,John,2025-09-03,2025-10-20
+L003,CloudVenture,Closed Lost,0,Sarah,2025-09-05,2025-11-01
+L004,DataSync Ltd,Demo,28000,Mike,2025-09-07,
+L005,EchoTech,MQL,0,John,2025-09-10,
+L006,FutureBridge,Closed Won,61000,Sarah,2025-09-12,2025-11-05
+L007,GreenLeaf,SQL,0,Mike,2025-09-14,
+L008,HighGround,Lead,0,Anna,2025-09-16,
+L009,InnovateCo,Closed Won,19000,John,2025-09-18,2025-11-10
+L010,JetStream,Closed Lost,0,Anna,2025-09-20,2025-11-15
+L011,KineticSoft,Demo,35000,Sarah,2025-09-22,
+L012,LaunchPad,Closed Won,52000,Mike,2025-09-25,2025-11-20
+L013,MetroSync,MQL,0,John,2025-09-27,
+L014,NovaTech,Lead,0,Anna,2025-09-29,
+L015,OmniCorp,SQL,0,Sarah,2025-10-01,
+L016,PeakSales,Closed Won,39000,John,2025-10-03,2025-11-25
+L017,QuantumLeap,Demo,27000,Mike,2025-10-05,
+L018,RapidGrow,Closed Won,44000,Sarah,2025-10-07,2025-12-01
+L019,SkyBridge,Closed Lost,0,John,2025-10-09,2025-11-30
+L020,TechForge,Lead,0,Mike,2025-10-11,
+L021,UltraPath,MQL,0,Anna,2025-10-13,
+L022,VisionArc,Closed Won,67000,Sarah,2025-10-15,2025-12-05
+L023,WaveCrest,SQL,0,John,2025-10-17,
+L024,Xenix Labs,Closed Lost,0,Mike,2025-10-19,2025-12-10
+L025,YellowBrick,Demo,31000,Anna,2025-10-21,
+L026,ZenithCorp,Closed Won,58000,Sarah,2025-10-23,2025-12-15
+L027,AlphaNet,Lead,0,John,2025-10-25,
+L028,BetaLogic,MQL,0,Mike,2025-10-27,
+L029,CoreStream,Closed Won,22000,Anna,2025-10-29,2025-12-20
+L030,DeltaOps,SQL,0,Sarah,2025-11-01,
+L031,EpicRise,Closed Won,71000,John,2025-11-03,2026-01-05
+L032,FlowBridge,Demo,43000,Mike,2025-11-05,
+L033,GridForce,Closed Lost,0,Anna,2025-11-07,2026-01-10
+L034,HorizonX,MQL,0,Sarah,2025-11-09,
+L035,IronWave,Closed Won,36000,John,2025-11-11,2026-01-15
+L036,JumpStart,Lead,0,Mike,2025-11-13,
+L037,KeyStone,SQL,0,Anna,2025-11-15,
+L038,LightSpeed,Closed Won,48000,Sarah,2025-11-17,2026-01-20
+L039,MindBridge,Closed Lost,0,John,2025-11-19,2026-01-25
+L040,NightOwl,Demo,29000,Mike,2025-11-21,
+L041,OpenPath,Closed Won,53000,Anna,2025-11-23,2026-01-30
+L042,PulseData,MQL,0,Sarah,2025-11-25,
+L043,QuantaHub,Lead,0,John,2025-11-27,
+L044,RedRocket,Closed Won,42000,Mike,2025-11-29,2026-02-05
+L045,SolarSync,SQL,0,Anna,2025-12-01,
+L046,TitanCode,Closed Won,77000,Sarah,2025-12-03,2026-02-10
+L047,UrbanFlow,Closed Lost,0,John,2025-12-05,2026-02-15
+L048,VeloxAI,Demo,38000,Mike,2025-12-07,
+L049,WarpDrive,Closed Won,61000,Anna,2025-12-09,2026-02-20
+L050,XcelPath,Lead,0,Sarah,2025-12-11,
+L051,YieldTech,MQL,0,John,2025-12-13,
+L052,ZeroBase,Closed Won,55000,Mike,2025-12-15,2026-02-25
+L053,AeroDyne,SQL,0,Anna,2025-12-17,
+L054,BlueSky,Closed Lost,0,Sarah,2025-12-19,2026-03-01
+L055,ClearPath,Closed Won,49000,John,2025-12-21,2026-03-05
+L056,DataVault,Demo,33000,Mike,2025-12-23,
+L057,EdgeForce,Closed Won,64000,Anna,2025-12-25,2026-03-10
+L058,FusionX,MQL,0,Sarah,2025-12-27,
+L059,GlobeNet,Lead,0,John,2025-12-29,
+L060,HyperLink,Closed Won,41000,Mike,2026-01-02,2026-03-15
